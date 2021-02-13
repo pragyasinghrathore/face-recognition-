@@ -1,0 +1,6 @@
+Epoch 50/50
+3200/3200 [==============================] - 30s 9ms/step - loss: 0.0712 - accuracy: 0.9737 - val_loss: 0.5292 - val_accuracy: 0.8725
+
+confusion matrix
+[[1756   82]
+ [  79 2083]]
